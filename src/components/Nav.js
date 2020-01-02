@@ -20,6 +20,9 @@ class Nav extends Component {
                         <li>
                             <NavLink to="/workflow">Studio</NavLink>
                         </li>
+                        <li>
+                            <NavLink to="/contact">Contact</NavLink>
+                        </li>
                     </ul>
                     </div>
                 </div>
